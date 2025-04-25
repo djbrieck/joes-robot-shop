@@ -1,6 +1,6 @@
 # JoesRobotShop
 
-Project Setup
+## Project Setup
 
 Node Version to install / use
 
